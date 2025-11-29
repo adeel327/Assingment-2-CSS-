@@ -1,0 +1,15 @@
+h1{
+    color:orangered;text-shadow: 5px 5px 5px yellow;
+}
+p::first-line{
+    color:palevioletred;font-size:bold;
+}
+p::first-letter{
+    color:purple;font-weight: bold;font-size: 200%;
+}
+a{
+    color: blueviolet;
+}
+h3{
+    color: brown;
+}
